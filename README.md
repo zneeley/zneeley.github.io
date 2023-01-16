@@ -2,7 +2,7 @@
 A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
 
 ## How is it used
-This Jekyll theme is used to build my zneeley.com website.
+This Jekyll theme is used to build my http://zneeley.com website.
 
 
 ## Details/Features/Changes
